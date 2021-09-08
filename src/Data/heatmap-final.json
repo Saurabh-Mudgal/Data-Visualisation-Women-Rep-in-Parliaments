@@ -1,0 +1,1430 @@
+[
+ {
+   "country": "Africa Eastern and Southern",
+   "code": "AFE",
+   "total": 30.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Afghanistan",
+   "code": "AFG",
+   "total": 27,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Central African Rep.",
+   "code": "AFW",
+   "total": 16.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "total": 30,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "total": 29.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Andorra",
+   "code": "AND",
+   "total": 46.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Arab World",
+   "code": "ARB",
+   "total": 19.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "United Arab Emirates",
+   "code": "ARE",
+   "total": 50,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Argentina",
+   "code": "ARG",
+   "total": 40.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "total": 23.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Antigua and Barbuda",
+   "code": "ATG",
+   "total": 11.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Australia",
+   "code": "AUS",
+   "total": 30.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Austria",
+   "code": "AUT",
+   "total": 39.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Azerbaijan",
+   "code": "AZE",
+   "total": 17.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "total": 38.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Belgium",
+   "code": "BEL",
+   "total": 41.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "total": 7.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "total": 6.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bangladesh",
+   "code": "BGD",
+   "total": 20.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bulgaria",
+   "code": "BGR",
+   "total": 26.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bahrain",
+   "code": "BHR",
+   "total": 15,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bahamas, The",
+   "code": "BHS",
+   "total": 12.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bosnia and Herzegovina",
+   "code": "BIH",
+   "total": 26.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Belarus",
+   "code": "BLR",
+   "total": 40,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Belize",
+   "code": "BLZ",
+   "total": 9.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "total": 46.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Brazil",
+   "code": "BRA",
+   "total": 14.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Barbados",
+   "code": "BRB",
+   "total": 20,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Brunei Darussalam",
+   "code": "BRN",
+   "total": 9.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Bhutan",
+   "code": "BTN",
+   "total": 14.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Botswana",
+   "code": "BWA",
+   "total": 10.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Central African Republic",
+   "code": "CAF",
+   "total": 8.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Canada",
+   "code": "CAN",
+   "total": 29,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Central Europe and the Baltics",
+   "code": "CEB",
+   "total": 25,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Switzerland",
+   "code": "CHE",
+   "total": 41.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Chile",
+   "code": "CHL",
+   "total": 22.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "China",
+   "code": "CHN",
+   "total": 24.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "total": 11.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "total": 33.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Dem. Rep. Congo",
+   "code": "COD",
+   "total": 12.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "total": 11.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "total": 18.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "total": 16.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cabo Verde",
+   "code": "CPV",
+   "total": 25,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Costa Rica",
+   "code": "CRI",
+   "total": 45.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Caribbean small states",
+   "code": "CSS",
+   "total": 25.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cuba",
+   "code": "CUB",
+   "total": 53.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cyprus",
+   "code": "CYP",
+   "total": 19.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Czech Republic",
+   "code": "CZE",
+   "total": 22.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Germany",
+   "code": "DEU",
+   "total": 31.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Djibouti",
+   "code": "DJI",
+   "total": 26.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Dominica",
+   "code": "DMA",
+   "total": 34.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Denmark",
+   "code": "DNK",
+   "total": 39.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Dominican Rep.",
+   "code": "DOM",
+   "total": 27.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Algeria",
+   "code": "DZA",
+   "total": 25.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "East Asia & Pacific (excluding high income)",
+   "code": "EAP",
+   "total": 21.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Early-demographic dividend",
+   "code": "EAR",
+   "total": 24.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "East Asia & Pacific",
+   "code": "EAS",
+   "total": 21.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Europe & Central Asia (excluding high income)",
+   "code": "ECA",
+   "total": 23.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Europe & Central Asia",
+   "code": "ECS",
+   "total": 30.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Ecuador",
+   "code": "ECU",
+   "total": 39.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Egypt",
+   "code": "EGY",
+   "total": 27.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Euro area",
+   "code": "EMU",
+   "total": 33.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Spain",
+   "code": "ESP",
+   "total": 44,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Estonia",
+   "code": "EST",
+   "total": 28.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "total": 38.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "European Union",
+   "code": "EUU",
+   "total": 32.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Fragile and conflict affected situations",
+   "code": "FCS",
+   "total": 20.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Finland",
+   "code": "FIN",
+   "total": 46,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Fiji",
+   "code": "FJI",
+   "total": 19.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "France",
+   "code": "FRA",
+   "total": 39.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Micronesia, Fed. Sts.",
+   "code": "FSM",
+   "total": 0,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "total": 14.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "United Kingdom",
+   "code": "GBR",
+   "total": 33.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Georgia",
+   "code": "GEO",
+   "total": 20.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "total": 13.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "total": 16.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Gambia, The",
+   "code": "GMB",
+   "total": 8.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Guinea-Bissau",
+   "code": "GNB",
+   "total": 13.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Equatorial Guinea",
+   "code": "GNQ",
+   "total": 21,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Greece",
+   "code": "GRC",
+   "total": 21.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Grenada",
+   "code": "GRD",
+   "total": 46.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "total": 19.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "total": 35.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "High income",
+   "code": "HIC",
+   "total": 30.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "total": 21.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Heavily indebted poor countries (HIPC)",
+   "code": "HPC",
+   "total": 25.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Croatia",
+   "code": "HRV",
+   "total": 31.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Hungary",
+   "code": "HUN",
+   "total": 12.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "IBRD only",
+   "code": "IBD",
+   "total": 24.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "IDA & IBRD total",
+   "code": "IBT",
+   "total": 23.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "IDA total",
+   "code": "IDA",
+   "total": 22.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "IDA blend",
+   "code": "IDB",
+   "total": 21.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Indonesia",
+   "code": "IDN",
+   "total": 20.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "IDA only",
+   "code": "IDX",
+   "total": 22.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "total": 14.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Ireland",
+   "code": "IRL",
+   "total": 22.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Iran",
+   "code": "IRN",
+   "total": 5.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Iraq",
+   "code": "IRQ",
+   "total": 26.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Iceland",
+   "code": "ISL",
+   "total": 38.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Israel",
+   "code": "ISR",
+   "total": 27.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Italy",
+   "code": "ITA",
+   "total": 35.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Jamaica",
+   "code": "JAM",
+   "total": 28.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Jordan",
+   "code": "JOR",
+   "total": 11.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Japan",
+   "code": "JPN",
+   "total": 9.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Kazakhstan",
+   "code": "KAZ",
+   "total": 27.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "total": 21.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "total": 16.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "total": 20,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Kiribati",
+   "code": "KIR",
+   "total": 8.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "St. Kitts and Nevis",
+   "code": "KNA",
+   "total": 25,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Korea",
+   "code": "KOR",
+   "total": 19,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Kuwait",
+   "code": "KWT",
+   "total": 6.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Latin America & Caribbean (excluding high income)",
+   "code": "LAC",
+   "total": 34.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Lao PDR",
+   "code": "LAO",
+   "total": 27.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Lebanon",
+   "code": "LBN",
+   "total": 4.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "total": 12.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Libya",
+   "code": "LBY",
+   "total": 16,
+   "parliamentSize": 400
+ },
+ {
+   "country": "St. Lucia",
+   "code": "LCA",
+   "total": 16.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Latin America & Caribbean",
+   "code": "LCN",
+   "total": 32.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Least developed countries: UN classification",
+   "code": "LDC",
+   "total": 24.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Low income",
+   "code": "LIC",
+   "total": 22.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Liechtenstein",
+   "code": "LIE",
+   "total": 12,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sri Lanka",
+   "code": "LKA",
+   "total": 5.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Lower middle income",
+   "code": "LMC",
+   "total": 21.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Low & middle income",
+   "code": "LMY",
+   "total": 23.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "total": 23.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Late-demographic dividend",
+   "code": "LTE",
+   "total": 22.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Lithuania",
+   "code": "LTU",
+   "total": 27,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Luxembourg",
+   "code": "LUX",
+   "total": 30,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Latvia",
+   "code": "LVA",
+   "total": 30,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Morocco",
+   "code": "MAR",
+   "total": 20.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Monaco",
+   "code": "MCO",
+   "total": 33.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "total": 24.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "total": 17.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Maldives",
+   "code": "MDV",
+   "total": 4.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sudan",
+   "code": "MEA",
+   "total": 18.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mexico",
+   "code": "MEX",
+   "total": 48.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Marshall Islands",
+   "code": "MHL",
+   "total": 6.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Middle income",
+   "code": "MIC",
+   "total": 24.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "North Macedonia",
+   "code": "MKD",
+   "total": 39.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "total": 27.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Malta",
+   "code": "MLT",
+   "total": 13.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Myanmar",
+   "code": "MMR",
+   "total": 16.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Eritrea",
+   "code": "MNA",
+   "total": 18.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Montenegro",
+   "code": "MNE",
+   "total": 22.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mongolia",
+   "code": "MNG",
+   "total": 17.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "total": 42.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mauritania",
+   "code": "MRT",
+   "total": 20.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Mauritius",
+   "code": "MUS",
+   "total": 20,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "total": 22.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Malaysia",
+   "code": "MYS",
+   "total": 14.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "North America",
+   "code": "NAC",
+   "total": 28.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "total": 43.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "total": 17,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "total": 7.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "total": 47.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Netherlands",
+   "code": "NLD",
+   "total": 33.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Norway",
+   "code": "NOR",
+   "total": 41.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Nepal",
+   "code": "NPL",
+   "total": 32.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Nauru",
+   "code": "NRU",
+   "total": 10.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "New Zealand",
+   "code": "NZL",
+   "total": 48.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "OECD members",
+   "code": "OED",
+   "total": 31.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Oman",
+   "code": "OMN",
+   "total": 2.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Other small states",
+   "code": "OSS",
+   "total": 20.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Pakistan",
+   "code": "PAK",
+   "total": 20.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Panama",
+   "code": "PAN",
+   "total": 22.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "total": 26.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "total": 28,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Palau",
+   "code": "PLW",
+   "total": 6.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Papua New Guinea",
+   "code": "PNG",
+   "total": 1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Poland",
+   "code": "POL",
+   "total": 28.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Pre-demographic dividend",
+   "code": "PRE",
+   "total": 22.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Dem. Rep. Korea",
+   "code": "PRK",
+   "total": 17.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Portugal",
+   "code": "PRT",
+   "total": 40,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Paraguay",
+   "code": "PRY",
+   "total": 16.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Pacific island small states",
+   "code": "PSS",
+   "total": 8.1,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Post-demographic dividend",
+   "code": "PST",
+   "total": 32.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Qatar",
+   "code": "QAT",
+   "total": 9.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Romania",
+   "code": "ROU",
+   "total": 21.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Russia",
+   "code": "RUS",
+   "total": 15.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "total": 61.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "South Asia",
+   "code": "SAS",
+   "total": 18.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Saudi Arabia",
+   "code": "SAU",
+   "total": 19.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "total": 43,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Singapore",
+   "code": "SGP",
+   "total": 29.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Solomon Islands",
+   "code": "SLB",
+   "total": 6.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "total": 12.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "El Salvador",
+   "code": "SLV",
+   "total": 33.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "San Marino",
+   "code": "SMR",
+   "total": 33.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Somalia",
+   "code": "SOM",
+   "total": 24.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Serbia",
+   "code": "SRB",
+   "total": 38.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Somaliland",
+   "code": "SSA",
+   "total": 24.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "S. Sudan",
+   "code": "SSD",
+   "total": 28.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sub-Saharan Africa",
+   "code": "SSF",
+   "total": 24.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Small states",
+   "code": "SST",
+   "total": 19.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "total": 23.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Suriname",
+   "code": "SUR",
+   "total": 29.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Slovak Republic",
+   "code": "SVK",
+   "total": 22.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Slovenia",
+   "code": "SVN",
+   "total": 27.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Sweden",
+   "code": "SWE",
+   "total": 47,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "total": 9.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Seychelles",
+   "code": "SYC",
+   "total": 24.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Syria",
+   "code": "SYR",
+   "total": 11.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "total": 15.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "East Asia & Pacific (IDA & IBRD countries)",
+   "code": "TEA",
+   "total": 21.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Europe & Central Asia (IDA & IBRD countries)",
+   "code": "TEC",
+   "total": 24.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "total": 18.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Thailand",
+   "code": "THA",
+   "total": 15.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Tajikistan",
+   "code": "TJK",
+   "total": 23.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "total": 25,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+   "code": "TLA",
+   "total": 29.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Timor-Leste",
+   "code": "TLS",
+   "total": 38.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Middle East & North Africa (IDA & IBRD countries)",
+   "code": "TMN",
+   "total": 18.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Tonga",
+   "code": "TON",
+   "total": 7.4,
+   "parliamentSize": 400
+ },
+ {
+   "country": "South Asia (IDA & IBRD)",
+   "code": "TSA",
+   "total": 18.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "CÃ´te d'Ivoire",
+   "code": "TSS",
+   "total": 24.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Trinidad and Tobago",
+   "code": "TTO",
+   "total": 26.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Tunisia",
+   "code": "TUN",
+   "total": 24.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Turkey",
+   "code": "TUR",
+   "total": 17.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Tuvalu",
+   "code": "TUV",
+   "total": 6.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "total": 36.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "total": 34.9,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "total": 20.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Upper middle income",
+   "code": "UMC",
+   "total": 26.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Uruguay",
+   "code": "URY",
+   "total": 21.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "United States",
+   "code": "USA",
+   "total": 27.5,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Uzbekistan",
+   "code": "UZB",
+   "total": 32,
+   "parliamentSize": 400
+ },
+ {
+   "country": "St. Vincent and the Grenadines",
+   "code": "VCT",
+   "total": 18.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Venezuela",
+   "code": "VEN",
+   "total": 22.2,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Vietnam",
+   "code": "VNM",
+   "total": 26.7,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Vanuatu",
+   "code": "VUT",
+   "total": 0,
+   "parliamentSize": 400
+ },
+ {
+   "country": "World",
+   "code": "WLD",
+   "total": 25.6,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Samoa",
+   "code": "WSM",
+   "total": 10,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Yemen",
+   "code": "YEM",
+   "total": 0.3,
+   "parliamentSize": 400
+ },
+ {
+   "country": "South Africa",
+   "code": "ZAF",
+   "total": 46.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "total": 16.8,
+   "parliamentSize": 400
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "total": 31.9,
+   "parliamentSize": 400
+ }
+]

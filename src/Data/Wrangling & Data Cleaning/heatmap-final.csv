@@ -1,0 +1,239 @@
+country,code,total,parliamentSize
+Africa Eastern and Southern,AFE,30.1,400
+Afghanistan,AFG,27,400
+Africa Western and Central,AFW,16.3,400
+Angola,AGO,30,400
+Albania,ALB,29.5,400
+Andorra,AND,46.4,400
+Arab World,ARB,19.5,400
+United Arab Emirates,ARE,50,400
+Argentina,ARG,40.9,400
+Armenia,ARM,23.5,400
+Antigua and Barbuda,ATG,11.1,400
+Australia,AUS,30.5,400
+Austria,AUT,39.3,400
+Azerbaijan,AZE,17.4,400
+Burundi,BDI,38.2,400
+Belgium,BEL,41.3,400
+Benin,BEN,7.2,400
+Burkina Faso,BFA,6.3,400
+Bangladesh,BGD,20.9,400
+Bulgaria,BGR,26.7,400
+Bahrain,BHR,15,400
+"Bahamas, The",BHS,12.8,400
+Bosnia and Herzegovina,BIH,26.2,400
+Belarus,BLR,40,400
+Belize,BLZ,9.7,400
+Bolivia,BOL,46.2,400
+Brazil,BRA,14.6,400
+Barbados,BRB,20,400
+Brunei Darussalam,BRN,9.1,400
+Bhutan,BTN,14.9,400
+Botswana,BWA,10.8,400
+Central African Republic,CAF,8.6,400
+Canada,CAN,29,400
+Central Europe and the Baltics,CEB,25,400
+Switzerland,CHE,41.5,400
+Chile,CHL,22.6,400
+China,CHN,24.9,400
+Cote d'Ivoire,CIV,11.4,400
+Cameroon,CMR,33.9,400
+"Congo, Dem. Rep.",COD,12.8,400
+"Congo, Rep.",COG,11.3,400
+Colombia,COL,18.3,400
+Comoros,COM,16.7,400
+Cabo Verde,CPV,25,400
+Costa Rica,CRI,45.6,400
+Caribbean small states,CSS,25.5,400
+Cuba,CUB,53.2,400
+Cyprus,CYP,19.6,400
+Czech Republic,CZE,22.5,400
+Germany,DEU,31.2,400
+Djibouti,DJI,26.2,400
+Dominica,DMA,34.4,400
+Denmark,DNK,39.7,400
+Dominican Republic,DOM,27.9,400
+Algeria,DZA,25.8,400
+East Asia & Pacific (excluding high income),EAP,21.5,400
+Early-demographic dividend,EAR,24.5,400
+East Asia & Pacific,EAS,21.3,400
+Europe & Central Asia (excluding high income),ECA,23.6,400
+Europe & Central Asia,ECS,30.3,400
+Ecuador,ECU,39.4,400
+"Egypt, Arab Rep.",EGY,27.4,400
+Euro area,EMU,33.9,400
+Spain,ESP,44,400
+Estonia,EST,28.7,400
+Ethiopia,ETH,38.8,400
+European Union,EUU,32.4,400
+Fragile and conflict affected situations,FCS,20.6,400
+Finland,FIN,46,400
+Fiji,FJI,19.6,400
+France,FRA,39.5,400
+"Micronesia, Fed. Sts.",FSM,0,400
+Gabon,GAB,14.8,400
+United Kingdom,GBR,33.8,400
+Georgia,GEO,20.7,400
+Ghana,GHA,13.1,400
+Guinea,GIN,16.7,400
+"Gambia, The",GMB,8.6,400
+Guinea-Bissau,GNB,13.7,400
+Equatorial Guinea,GNQ,21,400
+Greece,GRC,21.7,400
+Grenada,GRD,46.7,400
+Guatemala,GTM,19.4,400
+Guyana,GUY,35.7,400
+High income,HIC,30.3,400
+Honduras,HND,21.1,400
+Heavily indebted poor countries (HIPC),HPC,25.2,400
+Croatia,HRV,31.1,400
+Hungary,HUN,12.1,400
+IBRD only,IBD,24.3,400
+IDA & IBRD total,IBT,23.5,400
+IDA total,IDA,22.3,400
+IDA blend,IDB,21.1,400
+Indonesia,IDN,20.3,400
+IDA only,IDX,22.6,400
+India,IND,14.4,400
+Ireland,IRL,22.5,400
+"Iran, Islamic Rep.",IRN,5.6,400
+Iraq,IRQ,26.4,400
+Iceland,ISL,38.1,400
+Israel,ISR,27.5,400
+Italy,ITA,35.7,400
+Jamaica,JAM,28.6,400
+Jordan,JOR,11.5,400
+Japan,JPN,9.9,400
+Kazakhstan,KAZ,27.1,400
+Kenya,KEN,21.8,400
+Kyrgyz Republic,KGZ,16.5,400
+Cambodia,KHM,20,400
+Kiribati,KIR,8.9,400
+St. Kitts and Nevis,KNA,25,400
+"Korea, Rep.",KOR,19,400
+Kuwait,KWT,6.3,400
+Latin America & Caribbean (excluding high income),LAC,34.5,400
+Lao PDR,LAO,27.5,400
+Lebanon,LBN,4.7,400
+Liberia,LBR,12.3,400
+Libya,LBY,16,400
+St. Lucia,LCA,16.7,400
+Latin America & Caribbean,LCN,32.8,400
+Least developed countries: UN classification,LDC,24.2,400
+Low income,LIC,22.5,400
+Liechtenstein,LIE,12,400
+Sri Lanka,LKA,5.4,400
+Lower middle income,LMC,21.8,400
+Low & middle income,LMY,23.9,400
+Lesotho,LSO,23.3,400
+Late-demographic dividend,LTE,22.2,400
+Lithuania,LTU,27,400
+Luxembourg,LUX,30,400
+Latvia,LVA,30,400
+Morocco,MAR,20.5,400
+Monaco,MCO,33.3,400
+Moldova,MDA,24.8,400
+Madagascar,MDG,17.9,400
+Maldives,MDV,4.6,400
+Middle East & North Africa,MEA,18.3,400
+Mexico,MEX,48.2,400
+Marshall Islands,MHL,6.1,400
+Middle income,MIC,24.3,400
+North Macedonia,MKD,39.2,400
+Mali,MLI,27.9,400
+Malta,MLT,13.4,400
+Myanmar,MMR,16.8,400
+Middle East & North Africa (excluding high income),MNA,18.4,400
+Montenegro,MNE,22.2,400
+Mongolia,MNG,17.3,400
+Mozambique,MOZ,42.4,400
+Mauritania,MRT,20.3,400
+Mauritius,MUS,20,400
+Malawi,MWI,22.9,400
+Malaysia,MYS,14.9,400
+North America,NAC,28.1,400
+Namibia,NAM,43.3,400
+Niger,NER,17,400
+Nigeria,NGA,7.2,400
+Nicaragua,NIC,47.3,400
+Netherlands,NLD,33.3,400
+Norway,NOR,41.4,400
+Nepal,NPL,32.7,400
+Nauru,NRU,10.5,400
+New Zealand,NZL,48.3,400
+OECD members,OED,31.5,400
+Oman,OMN,2.3,400
+Other small states,OSS,20.9,400
+Pakistan,PAK,20.2,400
+Panama,PAN,22.5,400
+Peru,PER,26.2,400
+Philippines,PHL,28,400
+Palau,PLW,6.3,400
+Papua New Guinea,PNG,0,400
+Poland,POL,28.7,400
+Pre-demographic dividend,PRE,22.9,400
+"Korea, Dem. People’s Rep.",PRK,17.6,400
+Portugal,PRT,40,400
+Paraguay,PRY,16.3,400
+Pacific island small states,PSS,8.1,400
+Post-demographic dividend,PST,32.9,400
+Qatar,QAT,9.8,400
+Romania,ROU,21.9,400
+Russian Federation,RUS,15.8,400
+Rwanda,RWA,61.3,400
+South Asia,SAS,18.9,400
+Saudi Arabia,SAU,19.9,400
+Senegal,SEN,43,400
+Singapore,SGP,29.5,400
+Solomon Islands,SLB,6.4,400
+Sierra Leone,SLE,12.3,400
+El Salvador,SLV,33.3,400
+San Marino,SMR,33.3,400
+Somalia,SOM,24.4,400
+Serbia,SRB,38.8,400
+Sub-Saharan Africa (excluding high income),SSA,24.9,400
+South Sudan,SSD,28.5,400
+Sub-Saharan Africa,SSF,24.9,400
+Small states,SST,19.9,400
+Sao Tome and Principe,STP,23.6,400
+Suriname,SUR,29.4,400
+Slovak Republic,SVK,22.7,400
+Slovenia,SVN,27.8,400
+Sweden,SWE,47,400
+Eswatini,SWZ,9.6,400
+Seychelles,SYC,24.2,400
+Syrian Arab Republic,SYR,11.2,400
+Chad,TCD,15.4,400
+East Asia & Pacific (IDA & IBRD countries),TEA,21.9,400
+Europe & Central Asia (IDA & IBRD countries),TEC,24.4,400
+Togo,TGO,18.7,400
+Thailand,THA,15.7,400
+Tajikistan,TJK,23.8,400
+Turkmenistan,TKM,25,400
+Latin America & the Caribbean (IDA & IBRD countries),TLA,29.5,400
+Timor-Leste,TLS,38.5,400
+Middle East & North Africa (IDA & IBRD countries),TMN,18.4,400
+Tonga,TON,7.4,400
+South Asia (IDA & IBRD),TSA,18.9,400
+Sub-Saharan Africa (IDA & IBRD countries),TSS,24.9,400
+Trinidad and Tobago,TTO,26.2,400
+Tunisia,TUN,24.9,400
+Turkey,TUR,17.3,400
+Tuvalu,TUV,6.3,400
+Tanzania,TZA,36.7,400
+Uganda,UGA,34.9,400
+Ukraine,UKR,20.8,400
+Upper middle income,UMC,26.5,400
+Uruguay,URY,21.2,400
+United States,USA,27.5,400
+Uzbekistan,UZB,32,400
+St. Vincent and the Grenadines,VCT,18.2,400
+"Venezuela, RB",VEN,22.2,400
+Vietnam,VNM,26.7,400
+Vanuatu,VUT,0,400
+World,WLD,25.6,400
+Samoa,WSM,10,400
+"Yemen, Rep.",YEM,0.3,400
+South Africa,ZAF,46.8,400
+Zambia,ZMB,16.8,400
+Zimbabwe,ZWE,31.9,400
