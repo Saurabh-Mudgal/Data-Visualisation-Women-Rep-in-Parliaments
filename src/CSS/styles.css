@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #444444;
   font-weight: 100;
 }
-body {
+body, .map_element {
   background-color: #71808F;
   margin: 0px;
 }
@@ -50,4 +50,19 @@ path {
   width: 360px;
   height: 9.5em;
   transform: translate(-30px, -30px);
+}
+.testing{
+  width: 100vw;
+  height: 80vh;
+  background-color: rgba(207, 207, 207, 0.651);
+  transform: translate(0, -12.17vh);
+  position: absolute;
+  
+}
+.SG_Race{
+  width: 100vw;
+  height: 20vh;
+  background-color: rgba(60, 133, 92, 0.651);
+  transform: translate(0, 67.77vh);
+  position: absolute;  
 }
