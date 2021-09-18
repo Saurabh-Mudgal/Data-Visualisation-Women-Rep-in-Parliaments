@@ -9,31 +9,31 @@
    "country": "Afghanistan",
    "code": "AFG",
    "total": 27,
-   "parliamentSize": 400
+   "parliamentSize": 352
  },
  {
    "country": "Central African Rep.",
    "code": "AFW",
    "total": 16.3,
-   "parliamentSize": 400
+   "parliamentSize": 105
  },
  {
    "country": "Angola",
    "code": "AGO",
    "total": 30,
-   "parliamentSize": 400
+   "parliamentSize": 220
  },
  {
    "country": "Albania",
    "code": "ALB",
    "total": 29.5,
-   "parliamentSize": 400
+   "parliamentSize": 140
  },
  {
    "country": "Andorra",
    "code": "AND",
    "total": 46.4,
-   "parliamentSize": 400
+   "parliamentSize": 28
  },
  {
    "country": "Arab World",
@@ -45,145 +45,145 @@
    "country": "United Arab Emirates",
    "code": "ARE",
    "total": 50,
-   "parliamentSize": 400
+   "parliamentSize": 40
  },
  {
    "country": "Argentina",
    "code": "ARG",
    "total": 40.9,
-   "parliamentSize": 400
+   "parliamentSize": 329
  },
  {
    "country": "Armenia",
    "code": "ARM",
    "total": 23.5,
-   "parliamentSize": 400
+   "parliamentSize": 118
  },
  {
    "country": "Antigua and Barbuda",
    "code": "ATG",
    "total": 11.1,
-   "parliamentSize": 400
+   "parliamentSize": 34
  },
  {
    "country": "Australia",
    "code": "AUS",
    "total": 30.5,
-   "parliamentSize": 400
+   "parliamentSize": 226
  },
  {
    "country": "Austria",
    "code": "AUT",
    "total": 39.3,
-   "parliamentSize": 400
+   "parliamentSize": 245
  },
  {
    "country": "Azerbaijan",
    "code": "AZE",
    "total": 17.4,
-   "parliamentSize": 400
+   "parliamentSize": 125
  },
  {
    "country": "Burundi",
    "code": "BDI",
    "total": 38.2,
-   "parliamentSize": 400
+   "parliamentSize": 168
  },
  {
    "country": "Belgium",
    "code": "BEL",
    "total": 41.3,
-   "parliamentSize": 400
+   "parliamentSize": 210
  },
  {
    "country": "Benin",
    "code": "BEN",
    "total": 7.2,
-   "parliamentSize": 400
+   "parliamentSize": 83
  },
  {
    "country": "Burkina Faso",
    "code": "BFA",
    "total": 6.3,
-   "parliamentSize": 400
+   "parliamentSize": 127
  },
  {
    "country": "Bangladesh",
    "code": "BGD",
    "total": 20.9,
-   "parliamentSize": 400
+   "parliamentSize": 300
  },
  {
    "country": "Bulgaria",
    "code": "BGR",
    "total": 26.7,
-   "parliamentSize": 400
+   "parliamentSize": 240
  },
  {
    "country": "Bahrain",
    "code": "BHR",
    "total": 15,
-   "parliamentSize": 400
+   "parliamentSize": 80
  },
  {
    "country": "Bahamas, The",
    "code": "BHS",
    "total": 12.8,
-   "parliamentSize": 400
+   "parliamentSize": 54
  },
  {
-   "country": "Bosnia and Herzegovina",
+   "country": "Bosnia and Herz.",
    "code": "BIH",
    "total": 26.2,
-   "parliamentSize": 400
+   "parliamentSize": 57
  },
  {
    "country": "Belarus",
    "code": "BLR",
    "total": 40,
-   "parliamentSize": 400
+   "parliamentSize": 174
  },
  {
    "country": "Belize",
    "code": "BLZ",
    "total": 9.7,
-   "parliamentSize": 400
+   "parliamentSize": 43
  },
  {
    "country": "Bolivia",
    "code": "BOL",
    "total": 46.2,
-   "parliamentSize": 400
+   "parliamentSize": 166
  },
  {
    "country": "Brazil",
    "code": "BRA",
    "total": 14.6,
-   "parliamentSize": 400
+   "parliamentSize": 594
  },
  {
    "country": "Barbados",
    "code": "BRB",
    "total": 20,
-   "parliamentSize": 400
+   "parliamentSize": 51
  },
  {
    "country": "Brunei Darussalam",
    "code": "BRN",
    "total": 9.1,
-   "parliamentSize": 400
+   "parliamentSize": 33
  },
  {
    "country": "Bhutan",
    "code": "BTN",
    "total": 14.9,
-   "parliamentSize": 400
+   "parliamentSize": 72
  },
  {
    "country": "Botswana",
    "code": "BWA",
    "total": 10.8,
-   "parliamentSize": 400
+   "parliamentSize": 63
  },
  {
    "country": "Central African Republic",
@@ -195,7 +195,7 @@
    "country": "Canada",
    "code": "CAN",
    "total": 29,
-   "parliamentSize": 400
+   "parliamentSize": 443
  },
  {
    "country": "Central Europe and the Baltics",
@@ -207,19 +207,19 @@
    "country": "Switzerland",
    "code": "CHE",
    "total": 41.5,
-   "parliamentSize": 400
+   "parliamentSize": 246
  },
  {
    "country": "Chile",
    "code": "CHL",
    "total": 22.6,
-   "parliamentSize": 400
+   "parliamentSize": 205
  },
  {
    "country": "China",
    "code": "CHN",
    "total": 24.9,
-   "parliamentSize": 400
+   "parliamentSize": 2980
  },
  {
    "country": "Cote d'Ivoire",
@@ -231,31 +231,31 @@
    "country": "Cameroon",
    "code": "CMR",
    "total": 33.9,
-   "parliamentSize": 400
+   "parliamentSize": 280
  },
  {
    "country": "Dem. Rep. Congo",
    "code": "COD",
    "total": 12.8,
-   "parliamentSize": 400
+   "parliamentSize": 608
  },
  {
    "country": "Congo",
    "code": "COG",
    "total": 11.3,
-   "parliamentSize": 400
+   "parliamentSize": 211
  },
  {
    "country": "Colombia",
    "code": "COL",
    "total": 18.3,
-   "parliamentSize": 400
+   "parliamentSize": 268
  },
  {
    "country": "Comoros",
    "code": "COM",
    "total": 16.7,
-   "parliamentSize": 400
+   "parliamentSize": 33
  },
  {
    "country": "Cabo Verde",
@@ -267,7 +267,7 @@
    "country": "Costa Rica",
    "code": "CRI",
    "total": 45.6,
-   "parliamentSize": 400
+   "parliamentSize": 57
  },
  {
    "country": "Caribbean small states",
@@ -279,55 +279,55 @@
    "country": "Cuba",
    "code": "CUB",
    "total": 53.2,
-   "parliamentSize": 400
+   "parliamentSize": 612
  },
  {
    "country": "Cyprus",
    "code": "CYP",
    "total": 19.6,
-   "parliamentSize": 400
+   "parliamentSize": 80
  },
  {
-   "country": "Czech Republic",
+   "country": "Czech Rep.",
    "code": "CZE",
    "total": 22.5,
-   "parliamentSize": 400
+   "parliamentSize": 281
  },
  {
    "country": "Germany",
    "code": "DEU",
    "total": 31.2,
-   "parliamentSize": 400
+   "parliamentSize": 778
  },
  {
    "country": "Djibouti",
    "code": "DJI",
    "total": 26.2,
-   "parliamentSize": 400
+   "parliamentSize": 65
  },
  {
    "country": "Dominica",
    "code": "DMA",
    "total": 34.4,
-   "parliamentSize": 400
+   "parliamentSize": 32
  },
  {
    "country": "Denmark",
    "code": "DNK",
    "total": 39.7,
-   "parliamentSize": 400
+   "parliamentSize": 179
  },
  {
    "country": "Dominican Rep.",
    "code": "DOM",
    "total": 27.9,
-   "parliamentSize": 400
+   "parliamentSize": 215
  },
  {
    "country": "Algeria",
    "code": "DZA",
    "total": 25.8,
-   "parliamentSize": 400
+   "parliamentSize": 606
  },
  {
    "country": "East Asia & Pacific (excluding high income)",
@@ -363,13 +363,13 @@
    "country": "Ecuador",
    "code": "ECU",
    "total": 39.4,
-   "parliamentSize": 400
+   "parliamentSize": 137
  },
  {
    "country": "Egypt",
    "code": "EGY",
    "total": 27.4,
-   "parliamentSize": 400
+   "parliamentSize": 896
  },
  {
    "country": "Euro area",
@@ -381,25 +381,25 @@
    "country": "Spain",
    "code": "ESP",
    "total": 44,
-   "parliamentSize": 400
+   "parliamentSize": 607
  },
  {
    "country": "Estonia",
    "code": "EST",
    "total": 28.7,
-   "parliamentSize": 400
+   "parliamentSize": 101
  },
  {
    "country": "Ethiopia",
    "code": "ETH",
    "total": 38.8,
-   "parliamentSize": 400
+   "parliamentSize": 655
  },
  {
    "country": "European Union",
    "code": "EUU",
    "total": 32.4,
-   "parliamentSize": 400
+   "parliamentSize": 732
  },
  {
    "country": "Fragile and conflict affected situations",
@@ -411,97 +411,97 @@
    "country": "Finland",
    "code": "FIN",
    "total": 46,
-   "parliamentSize": 400
+   "parliamentSize": 200
  },
  {
    "country": "Fiji",
    "code": "FJI",
    "total": 19.6,
-   "parliamentSize": 400
+   "parliamentSize": 50
  },
  {
    "country": "France",
    "code": "FRA",
    "total": 39.5,
-   "parliamentSize": 400
+   "parliamentSize": 925
  },
  {
    "country": "Micronesia, Fed. Sts.",
    "code": "FSM",
    "total": 0,
-   "parliamentSize": 400
+   "parliamentSize": 14
  },
  {
    "country": "Gabon",
    "code": "GAB",
    "total": 14.8,
-   "parliamentSize": 400
+   "parliamentSize": 222
  },
  {
    "country": "United Kingdom",
    "code": "GBR",
    "total": 33.8,
-   "parliamentSize": 400
+   "parliamentSize": 1443
  },
  {
    "country": "Georgia",
    "code": "GEO",
    "total": 20.7,
-   "parliamentSize": 400
+   "parliamentSize": 150
  },
  {
    "country": "Ghana",
    "code": "GHA",
    "total": 13.1,
-   "parliamentSize": 400
+   "parliamentSize": 275
  },
  {
    "country": "Guinea",
    "code": "GIN",
    "total": 16.7,
-   "parliamentSize": 400
+   "parliamentSize": 114
  },
  {
    "country": "Gambia, The",
    "code": "GMB",
    "total": 8.6,
-   "parliamentSize": 400
+   "parliamentSize": 53
  },
  {
    "country": "Guinea-Bissau",
    "code": "GNB",
    "total": 13.7,
-   "parliamentSize": 400
+   "parliamentSize": 102
  },
  {
    "country": "Equatorial Guinea",
    "code": "GNQ",
    "total": 21,
-   "parliamentSize": 400
+   "parliamentSize": 170
  },
  {
    "country": "Greece",
    "code": "GRC",
    "total": 21.7,
-   "parliamentSize": 400
+   "parliamentSize": 300
  },
  {
    "country": "Grenada",
    "code": "GRD",
    "total": 46.7,
-   "parliamentSize": 400
+   "parliamentSize": 28
  },
  {
    "country": "Guatemala",
    "code": "GTM",
    "total": 19.4,
-   "parliamentSize": 400
+   "parliamentSize": 158
  },
  {
    "country": "Guyana",
    "code": "GUY",
    "total": 35.7,
-   "parliamentSize": 400
+   "parliamentSize": 65
  },
  {
    "country": "High income",
@@ -513,7 +513,7 @@
    "country": "Honduras",
    "code": "HND",
    "total": 21.1,
-   "parliamentSize": 400
+   "parliamentSize": 128
  },
  {
    "country": "Heavily indebted poor countries (HIPC)",
@@ -525,13 +525,13 @@
    "country": "Croatia",
    "code": "HRV",
    "total": 31.1,
-   "parliamentSize": 400
+   "parliamentSize": 151
  },
  {
    "country": "Hungary",
    "code": "HUN",
    "total": 12.1,
-   "parliamentSize": 400
+   "parliamentSize": 199
  },
  {
    "country": "IBRD only",
@@ -561,7 +561,7 @@
    "country": "Indonesia",
    "code": "IDN",
    "total": 20.3,
-   "parliamentSize": 400
+   "parliamentSize": 711
  },
  {
    "country": "IDA only",
@@ -573,109 +573,109 @@
    "country": "India",
    "code": "IND",
    "total": 14.4,
-   "parliamentSize": 400
+   "parliamentSize": 788
  },
  {
    "country": "Ireland",
    "code": "IRL",
    "total": 22.5,
-   "parliamentSize": 400
+   "parliamentSize": 226
  },
  {
    "country": "Iran",
    "code": "IRN",
    "total": 5.6,
-   "parliamentSize": 400
+   "parliamentSize": 290
  },
  {
    "country": "Iraq",
    "code": "IRQ",
    "total": 26.4,
-   "parliamentSize": 400
+   "parliamentSize": 325
  },
  {
    "country": "Iceland",
    "code": "ISL",
    "total": 38.1,
-   "parliamentSize": 400
+   "parliamentSize": 63
  },
  {
    "country": "Israel",
    "code": "ISR",
    "total": 27.5,
-   "parliamentSize": 400
+   "parliamentSize": 120
  },
  {
    "country": "Italy",
    "code": "ITA",
    "total": 35.7,
-   "parliamentSize": 400
+   "parliamentSize": 951
  },
  {
    "country": "Jamaica",
    "code": "JAM",
    "total": 28.6,
-   "parliamentSize": 400
+   "parliamentSize": 84
  },
  {
    "country": "Jordan",
    "code": "JOR",
    "total": 11.5,
-   "parliamentSize": 400
+   "parliamentSize": 210
  },
  {
    "country": "Japan",
    "code": "JPN",
    "total": 9.9,
-   "parliamentSize": 400
+   "parliamentSize": 707
  },
  {
    "country": "Kazakhstan",
    "code": "KAZ",
    "total": 27.1,
-   "parliamentSize": 400
+   "parliamentSize": 154
  },
  {
    "country": "Kenya",
    "code": "KEN",
    "total": 21.8,
-   "parliamentSize": 400
+   "parliamentSize": 416
  },
  {
    "country": "Kyrgyzstan",
    "code": "KGZ",
    "total": 16.5,
-   "parliamentSize": 400
+   "parliamentSize": 120
  },
  {
    "country": "Cambodia",
    "code": "KHM",
    "total": 20,
-   "parliamentSize": 400
+   "parliamentSize": 184
  },
  {
    "country": "Kiribati",
    "code": "KIR",
    "total": 8.9,
-   "parliamentSize": 400
+   "parliamentSize": 46
  },
  {
    "country": "St. Kitts and Nevis",
    "code": "KNA",
    "total": 25,
-   "parliamentSize": 400
+   "parliamentSize": 14
  },
  {
    "country": "Korea",
    "code": "KOR",
    "total": 19,
-   "parliamentSize": 400
+   "parliamentSize": 300
  },
  {
    "country": "Kuwait",
    "code": "KWT",
    "total": 6.3,
-   "parliamentSize": 400
+   "parliamentSize": 65
  },
  {
    "country": "Latin America & Caribbean (excluding high income)",
@@ -687,31 +687,31 @@
    "country": "Lao PDR",
    "code": "LAO",
    "total": 27.5,
-   "parliamentSize": 400
+   "parliamentSize": 149
  },
  {
    "country": "Lebanon",
    "code": "LBN",
    "total": 4.7,
-   "parliamentSize": 400
+   "parliamentSize": 128
  },
  {
    "country": "Liberia",
    "code": "LBR",
    "total": 12.3,
-   "parliamentSize": 400
+   "parliamentSize": 103
  },
  {
    "country": "Libya",
    "code": "LBY",
    "total": 16,
-   "parliamentSize": 400
+   "parliamentSize": 200
  },
  {
    "country": "St. Lucia",
    "code": "LCA",
    "total": 16.7,
-   "parliamentSize": 400
+   "parliamentSize": 28
  },
  {
    "country": "Latin America & Caribbean",
@@ -735,13 +735,13 @@
    "country": "Liechtenstein",
    "code": "LIE",
    "total": 12,
-   "parliamentSize": 400
+   "parliamentSize": 25
  },
  {
    "country": "Sri Lanka",
    "code": "LKA",
    "total": 5.4,
-   "parliamentSize": 400
+   "parliamentSize": 225
  },
  {
    "country": "Lower middle income",
@@ -759,7 +759,7 @@
    "country": "Lesotho",
    "code": "LSO",
    "total": 23.3,
-   "parliamentSize": 400
+   "parliamentSize": 153
  },
  {
    "country": "Late-demographic dividend",
@@ -771,67 +771,67 @@
    "country": "Lithuania",
    "code": "LTU",
    "total": 27,
-   "parliamentSize": 400
+   "parliamentSize": 141
  },
  {
    "country": "Luxembourg",
    "code": "LUX",
    "total": 30,
-   "parliamentSize": 400
+   "parliamentSize": 60
  },
  {
    "country": "Latvia",
    "code": "LVA",
    "total": 30,
-   "parliamentSize": 400
+   "parliamentSize": 100
  },
  {
    "country": "Morocco",
    "code": "MAR",
    "total": 20.5,
-   "parliamentSize": 400
+   "parliamentSize": 665
  },
  {
    "country": "Monaco",
    "code": "MCO",
    "total": 33.3,
-   "parliamentSize": 400
+   "parliamentSize": 24
  },
  {
    "country": "Moldova",
    "code": "MDA",
    "total": 24.8,
-   "parliamentSize": 400
+   "parliamentSize": 101
  },
  {
    "country": "Madagascar",
    "code": "MDG",
    "total": 17.9,
-   "parliamentSize": 400
+   "parliamentSize": 184
  },
  {
    "country": "Maldives",
    "code": "MDV",
    "total": 4.6,
-   "parliamentSize": 400
+   "parliamentSize": 85
  },
  {
    "country": "Sudan",
    "code": "MEA",
    "total": 18.3,
-   "parliamentSize": 400
+   "parliamentSize": 500
  },
  {
    "country": "Mexico",
    "code": "MEX",
    "total": 48.2,
-   "parliamentSize": 400
+   "parliamentSize": 628
  },
  {
    "country": "Marshall Islands",
    "code": "MHL",
    "total": 6.1,
-   "parliamentSize": 400
+   "parliamentSize": 33
  },
  {
    "country": "Middle income",
@@ -840,7 +840,7 @@
    "parliamentSize": 400
  },
  {
-   "country": "North Macedonia",
+   "country": "Macedonia",
    "code": "MKD",
    "total": 39.2,
    "parliamentSize": 400
@@ -849,67 +849,67 @@
    "country": "Mali",
    "code": "MLI",
    "total": 27.9,
-   "parliamentSize": 400
+   "parliamentSize": 160
  },
  {
    "country": "Malta",
    "code": "MLT",
    "total": 13.4,
-   "parliamentSize": 400
+   "parliamentSize": 65
  },
  {
    "country": "Myanmar",
    "code": "MMR",
    "total": 16.8,
-   "parliamentSize": 400
+   "parliamentSize": 664
  },
  {
    "country": "Eritrea",
    "code": "MNA",
    "total": 18.4,
-   "parliamentSize": 400
+   "parliamentSize": 150
  },
  {
    "country": "Montenegro",
    "code": "MNE",
    "total": 22.2,
-   "parliamentSize": 400
+   "parliamentSize": 81
  },
  {
    "country": "Mongolia",
    "code": "MNG",
    "total": 17.3,
-   "parliamentSize": 400
+   "parliamentSize": 76
  },
  {
    "country": "Mozambique",
    "code": "MOZ",
    "total": 42.4,
-   "parliamentSize": 400
+   "parliamentSize": 250
  },
  {
    "country": "Mauritania",
    "code": "MRT",
    "total": 20.3,
-   "parliamentSize": 400
+   "parliamentSize": 146
  },
  {
    "country": "Mauritius",
    "code": "MUS",
    "total": 20,
-   "parliamentSize": 400
+   "parliamentSize": 70
  },
  {
    "country": "Malawi",
    "code": "MWI",
    "total": 22.9,
-   "parliamentSize": 400
+   "parliamentSize": 193
  },
  {
    "country": "Malaysia",
    "code": "MYS",
    "total": 14.9,
-   "parliamentSize": 400
+   "parliamentSize": 292
  },
  {
    "country": "North America",
@@ -921,55 +921,55 @@
    "country": "Namibia",
    "code": "NAM",
    "total": 43.3,
-   "parliamentSize": 400
+   "parliamentSize": 98
  },
  {
    "country": "Niger",
    "code": "NER",
    "total": 17,
-   "parliamentSize": 400
+   "parliamentSize": 113
  },
  {
    "country": "Nigeria",
    "code": "NGA",
    "total": 7.2,
-   "parliamentSize": 400
+   "parliamentSize": 469
  },
  {
    "country": "Nicaragua",
    "code": "NIC",
    "total": 47.3,
-   "parliamentSize": 400
+   "parliamentSize": 92
  },
  {
    "country": "Netherlands",
    "code": "NLD",
    "total": 33.3,
-   "parliamentSize": 400
+   "parliamentSize": 225
  },
  {
    "country": "Norway",
    "code": "NOR",
    "total": 41.4,
-   "parliamentSize": 400
+   "parliamentSize": 169
  },
  {
    "country": "Nepal",
    "code": "NPL",
    "total": 32.7,
-   "parliamentSize": 400
+   "parliamentSize": 334
  },
  {
    "country": "Nauru",
    "code": "NRU",
    "total": 10.5,
-   "parliamentSize": 400
+   "parliamentSize": 19
  },
  {
    "country": "New Zealand",
    "code": "NZL",
    "total": 48.3,
-   "parliamentSize": 400
+   "parliamentSize": 120
  },
  {
    "country": "OECD members",
@@ -981,7 +981,7 @@
    "country": "Oman",
    "code": "OMN",
    "total": 2.3,
-   "parliamentSize": 400
+   "parliamentSize": 155
  },
  {
    "country": "Other small states",
@@ -993,19 +993,19 @@
    "country": "Pakistan",
    "code": "PAK",
    "total": 20.2,
-   "parliamentSize": 400
+   "parliamentSize": 446
  },
  {
    "country": "Panama",
    "code": "PAN",
    "total": 22.5,
-   "parliamentSize": 400
+   "parliamentSize": 71
  },
  {
    "country": "Peru",
    "code": "PER",
    "total": 26.2,
-   "parliamentSize": 400
+   "parliamentSize": 130
  },
  {
    "country": "Philippines",
@@ -1017,19 +1017,19 @@
    "country": "Palau",
    "code": "PLW",
    "total": 6.3,
-   "parliamentSize": 400
+   "parliamentSize": 25
  },
  {
    "country": "Papua New Guinea",
    "code": "PNG",
    "total": 1,
-   "parliamentSize": 400
+   "parliamentSize": 111
  },
  {
    "country": "Poland",
    "code": "POL",
    "total": 28.7,
-   "parliamentSize": 400
+   "parliamentSize": 560
  },
  {
    "country": "Pre-demographic dividend",
@@ -1041,19 +1041,19 @@
    "country": "Dem. Rep. Korea",
    "code": "PRK",
    "total": 17.6,
-   "parliamentSize": 400
+   "parliamentSize": 687
  },
  {
    "country": "Portugal",
    "code": "PRT",
    "total": 40,
-   "parliamentSize": 400
+   "parliamentSize": 230
  },
  {
    "country": "Paraguay",
    "code": "PRY",
    "total": 16.3,
-   "parliamentSize": 400
+   "parliamentSize": 125
  },
  {
    "country": "Pacific island small states",
@@ -1071,25 +1071,25 @@
    "country": "Qatar",
    "code": "QAT",
    "total": 9.8,
-   "parliamentSize": 400
+   "parliamentSize": 45
  },
  {
    "country": "Romania",
    "code": "ROU",
    "total": 21.9,
-   "parliamentSize": 400
+   "parliamentSize": 465
  },
  {
    "country": "Russia",
    "code": "RUS",
    "total": 15.8,
-   "parliamentSize": 400
+   "parliamentSize": 620
  },
  {
    "country": "Rwanda",
    "code": "RWA",
    "total": 61.3,
-   "parliamentSize": 400
+   "parliamentSize": 106
  },
  {
    "country": "South Asia",
@@ -1101,55 +1101,55 @@
    "country": "Saudi Arabia",
    "code": "SAU",
    "total": 19.9,
-   "parliamentSize": 400
+   "parliamentSize": 150
  },
  {
    "country": "Senegal",
    "code": "SEN",
    "total": 43,
-   "parliamentSize": 400
+   "parliamentSize": 150
  },
  {
    "country": "Singapore",
    "code": "SGP",
    "total": 29.5,
-   "parliamentSize": 400
+   "parliamentSize": 93
  },
  {
    "country": "Solomon Islands",
    "code": "SLB",
    "total": 6.4,
-   "parliamentSize": 400
+   "parliamentSize": 50
  },
  {
    "country": "Sierra Leone",
    "code": "SLE",
    "total": 12.3,
-   "parliamentSize": 400
+   "parliamentSize": 124
  },
  {
    "country": "El Salvador",
    "code": "SLV",
    "total": 33.3,
-   "parliamentSize": 400
+   "parliamentSize": 84
  },
  {
    "country": "San Marino",
    "code": "SMR",
    "total": 33.3,
-   "parliamentSize": 400
+   "parliamentSize": 60
  },
  {
    "country": "Somalia",
    "code": "SOM",
    "total": 24.4,
-   "parliamentSize": 400
+   "parliamentSize": 329
  },
  {
    "country": "Serbia",
    "code": "SRB",
    "total": 38.8,
-   "parliamentSize": 400
+   "parliamentSize": 250
  },
  {
    "country": "Somaliland",
@@ -1161,7 +1161,7 @@
    "country": "S. Sudan",
    "code": "SSD",
    "total": 28.5,
-   "parliamentSize": 400
+   "parliamentSize": 382
  },
  {
    "country": "Sub-Saharan Africa",
@@ -1179,55 +1179,55 @@
    "country": "Sao Tome and Principe",
    "code": "STP",
    "total": 23.6,
-   "parliamentSize": 400
+   "parliamentSize": 55
  },
  {
    "country": "Suriname",
    "code": "SUR",
    "total": 29.4,
-   "parliamentSize": 400
+   "parliamentSize": 51
  },
  {
-   "country": "Slovak Republic",
+   "country": "Slovakia",
    "code": "SVK",
    "total": 22.7,
-   "parliamentSize": 400
+   "parliamentSize": 150
  },
  {
    "country": "Slovenia",
    "code": "SVN",
    "total": 27.8,
-   "parliamentSize": 400
+   "parliamentSize": 130
  },
  {
    "country": "Sweden",
    "code": "SWE",
    "total": 47,
-   "parliamentSize": 400
+   "parliamentSize": 349
  },
  {
    "country": "Eswatini",
    "code": "SWZ",
    "total": 9.6,
-   "parliamentSize": 400
+   "parliamentSize": 95
  },
  {
    "country": "Seychelles",
    "code": "SYC",
    "total": 24.2,
-   "parliamentSize": 400
+   "parliamentSize": 34
  },
  {
    "country": "Syria",
    "code": "SYR",
    "total": 11.2,
-   "parliamentSize": 400
+   "parliamentSize": 250
  },
  {
    "country": "Chad",
    "code": "TCD",
    "total": 15.4,
-   "parliamentSize": 400
+   "parliamentSize": 188
  },
  {
    "country": "East Asia & Pacific (IDA & IBRD countries)",
@@ -1245,25 +1245,25 @@
    "country": "Togo",
    "code": "TGO",
    "total": 18.7,
-   "parliamentSize": 400
+   "parliamentSize": 91
  },
  {
    "country": "Thailand",
    "code": "THA",
    "total": 15.7,
-   "parliamentSize": 400
+   "parliamentSize": 750
  },
  {
    "country": "Tajikistan",
    "code": "TJK",
    "total": 23.8,
-   "parliamentSize": 400
+   "parliamentSize": 97
  },
  {
    "country": "Turkmenistan",
    "code": "TKM",
    "total": 25,
-   "parliamentSize": 400
+   "parliamentSize": 125
  },
  {
    "country": "Latin America & the Caribbean (IDA & IBRD countries)",
@@ -1275,7 +1275,7 @@
    "country": "Timor-Leste",
    "code": "TLS",
    "total": 38.5,
-   "parliamentSize": 400
+   "parliamentSize": 65
  },
  {
    "country": "Middle East & North Africa (IDA & IBRD countries)",
@@ -1287,7 +1287,7 @@
    "country": "Tonga",
    "code": "TON",
    "total": 7.4,
-   "parliamentSize": 400
+   "parliamentSize": 26
  },
  {
    "country": "South Asia (IDA & IBRD)",
@@ -1299,49 +1299,49 @@
    "country": "CÃ´te d'Ivoire",
    "code": "TSS",
    "total": 24.9,
-   "parliamentSize": 400
+   "parliamentSize": 354
  },
  {
    "country": "Trinidad and Tobago",
    "code": "TTO",
    "total": 26.2,
-   "parliamentSize": 400
+   "parliamentSize": 72
  },
  {
    "country": "Tunisia",
    "code": "TUN",
    "total": 24.9,
-   "parliamentSize": 400
+   "parliamentSize": 217
  },
  {
    "country": "Turkey",
    "code": "TUR",
    "total": 17.3,
-   "parliamentSize": 400
+   "parliamentSize": 600
  },
  {
    "country": "Tuvalu",
    "code": "TUV",
    "total": 6.3,
-   "parliamentSize": 400
+   "parliamentSize": 15
  },
  {
    "country": "Tanzania",
    "code": "TZA",
    "total": 36.7,
-   "parliamentSize": 400
+   "parliamentSize": 357
  },
  {
    "country": "Uganda",
    "code": "UGA",
    "total": 34.9,
-   "parliamentSize": 400
+   "parliamentSize": 375
  },
  {
    "country": "Ukraine",
    "code": "UKR",
    "total": 20.8,
-   "parliamentSize": 400
+   "parliamentSize": 450
  },
  {
    "country": "Upper middle income",
@@ -1353,43 +1353,43 @@
    "country": "Uruguay",
    "code": "URY",
    "total": 21.2,
-   "parliamentSize": 400
+   "parliamentSize": 129
  },
  {
    "country": "United States",
    "code": "USA",
    "total": 27.5,
-   "parliamentSize": 400
+   "parliamentSize": 535
  },
  {
    "country": "Uzbekistan",
    "code": "UZB",
    "total": 32,
-   "parliamentSize": 400
+   "parliamentSize": 250
  },
  {
    "country": "St. Vincent and the Grenadines",
    "code": "VCT",
    "total": 18.2,
-   "parliamentSize": 400
+   "parliamentSize": 21
  },
  {
    "country": "Venezuela",
    "code": "VEN",
    "total": 22.2,
-   "parliamentSize": 400
+   "parliamentSize": 165
  },
  {
    "country": "Vietnam",
    "code": "VNM",
    "total": 26.7,
-   "parliamentSize": 400
+   "parliamentSize": 500
  },
  {
    "country": "Vanuatu",
    "code": "VUT",
    "total": 0,
-   "parliamentSize": 400
+   "parliamentSize": 52
  },
  {
    "country": "World",
@@ -1401,30 +1401,30 @@
    "country": "Samoa",
    "code": "WSM",
    "total": 10,
-   "parliamentSize": 400
+   "parliamentSize": 49
  },
  {
    "country": "Yemen",
    "code": "YEM",
    "total": 0.3,
-   "parliamentSize": 400
+   "parliamentSize": 412
  },
  {
    "country": "South Africa",
    "code": "ZAF",
    "total": 46.8,
-   "parliamentSize": 400
+   "parliamentSize": 490
  },
  {
    "country": "Zambia",
    "code": "ZMB",
    "total": 16.8,
-   "parliamentSize": 400
+   "parliamentSize": 158
  },
  {
    "country": "Zimbabwe",
    "code": "ZWE",
    "total": 31.9,
-   "parliamentSize": 400
+   "parliamentSize": 350
  }
 ]

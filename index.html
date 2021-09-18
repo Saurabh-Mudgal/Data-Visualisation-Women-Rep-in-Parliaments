@@ -14,12 +14,20 @@
 
 <body>
 
-<h1 class="center"><u><b>Where in the world?<br>Women representation in parliament and its benefits</b></u></h1>
+<h1 class="center"><u>Evolved Election Discussions: A data visualization of rising women representation in Parliament and gender equality</b></u></h1>
 
 <div class="map_element"></div>
 
 <div class="top">
   <img class="logo" src="./src/Assets/straits-times-logo.jpg">
+</div>
+
+<div class="default_details">
+  <h2 class="default_country">World</h2>
+  <p>Women's share</p>
+  <p class="default_females"></p>
+  <p>Total Women in Parliament</p>
+  <p class="default_males"></p>
 </div>
 
 <div class="details">
@@ -28,11 +36,90 @@
     <p class="males"></p>
 </div>
 
-<div class="testing">testing</div>
-<div class="SG_Race">SG_Race</div>
+<div class="articleHeading">
+  <h2><b>Progression of women and politics in Singapore</b></h2>
+</div>
+<div class="Introduction">
+  <p>Singapore is a world-renowned epitome for women safety, equality, and standard of living. The deep routed sense of safety, liberty, and mental assurance its citizens feel today is arduous ideal achieved over years of societal and policy reform.</p>
+  <p>It has evolved from a fisherman’s “kampung” to the financial hub we know today. In the past, it has seen developments in infrastructure, crime safety, education, and public equality.</p>
+  <p>However, as we enter a new decade, we are witnessing reformation of the very idea of equality at a deeper level as more women enter as candidates in the Singapore 2020 General Election (2020 GE).</p>
+  <p> <em>Let’s take a closer look!</em> </p>
+</div>
+<div class="transition"><b>In Focus: GE2020 Age Distribution</b></div>
+<div class="topicOne">
+  <p class="age_data"></p>
+  <p>2020 GE saw an interesting distribution of age demographics among the candidates. For a nation with majority of the population above the age of 45, it was exceptional to see the median age of candidates being relatively young.</p>
+</div>
+<div class="topicSeven"><b>In Focus: GE2020 Ethinic Demographics</b></div>
+<div class="topicTwo">
+  <p class="race_data"></p>
+  <p>These demographics of the candidates closely mirror the ethnicity composition of Singapore’s population.</p>
+</div>
+<div class="topicX"><b>In Focus: GE2020 Gender Statistics</b></div>
+<div class="topicThree">
+  <p class="gender_data"></p>
+  <p>30% women representation may seem humble in comparison to 60% in Mala, 56% in Dhaka, 48% in Baka.  However, note the increased candidates from 23 to 29.5 reflect a stark jump of 40% increase in women representation within one term.</p>
+</div>
+<div class="topicY">
+  <p>The statistics become even more interesting when we look at the younger candidates (below 35 years old). We see that nearly 45% of them are women. And as seen earlier, despite being an elderly’s nation the median candidate age is shifting towards a younger population. These two factors combined highlight a trend of increasing women representation in the parliament in our future. But what are its implications?</p>
+  <p>To understand what is going on inwards let us look outwards at other nations with the highest increase in women representation this year. </p>
+</div>
+<div class="topicFour"></div>
+<div class="topicFive"></div>
+<div class="topicSixA"></div>
+<div class="topicSixB"></div>
+<div class="topicSixC">A data-focused study from emerald journal identified three salient criteria to unravel the agendas introduced by female MPs: Economic, women-specific, political oversight.<br>
+  For Egypt, this entailed:<br><ol>1.	Reallocation of economic budget to target feminist issues</ol>
+  <ol>2.	Toughening sentences against individuals who performed female genital mutilation (FGM) from a misdemeanor to a felony.</ol>
+  <ol>3.	And questioning the minister of supplies on the wheat sales and storage system, leading to his resignation and almost a vote of no confidence for the first time in Egyptian history.</ol>
+</div>
+<div class="topicSixE"><b>Election Discussions and Female Candidates – A Correlation?</b></div>
+<div class="topicSixF">
+  <p>The data indicates a strong shift in parliament discussions following strengthened women representation in parliaments. More women-centric issues are addressed, economic policies become more balanced catering equitably to both genders and new methodologies are introduced to tackle conventionally complex issues.</p>
+  <p>An equal women representation in parliament brings many benefits. Taking guidance from the world and staying set on the current path will be a path of growth for Singapore’s political landscape.</p>
+</div>
+
+
+
+
+
+<div id="model"></div>
+<div id="race"></div>
+<div id="women"></div>
+<div id="rwanda"></div>
+<div id="cuba"></div>
+<div id="uae"></div>
+<div id="egypt"></div>
+
+
+<div id="fillerA"></div>
+<div id="fillerB"></div>
+<div id="fillerC"></div>
+<div id="fillerD"></div>
+<div id="fillerE"></div>
+<div id="fillerF"></div>
+<div id="fillerG"></div>
+<div id="fillerH"></div>
+
+
+
+<!-- Easter Egg -->
+<div id="threeJS"></div>
+
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.js"></script>
-<script src="src/JS/main.js"></script>
+<script type="module" src="./src/JS/index.js"></script>
+<script type = "module" src="./src/JS/sgVisualization.js" defer></script>
+<script type = "module" src="./src/JS/race.js" defer></script>
+<script type = "module" src="./src/JS/womenSG.js" defer></script>
+<script type="module" src="./src/JS/rwanda.js" defer></script>
+<script type="module" src="./src/JS/cuba.js" defer></script>
+<script type="module" src="./src/JS/uae.js" defer></script>
+<script type="module" src="./src/JS/egypt.js" defer></script>
+
+</body>
 </body>
 </html>
