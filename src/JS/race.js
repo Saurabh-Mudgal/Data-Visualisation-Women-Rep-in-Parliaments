@@ -4395,8 +4395,6 @@ class Race3DDemo {
       alph = 1-((checkpoint2-pos)/(checkpoint2-transpoint2));
     }
     document.querySelector("#race").style.opacity = alph;
-
-    console.log(pos);
   }
 
   _OnWindowResize() {
