@@ -2,6 +2,13 @@
 <br>
 <br>
 
+## Demo
+<br>
+
+View Live Website: [www.womeninparliamentsg.web.app](https://womeninparliamentsg.web.app/)
+
+<br>
+
 ## About the Project
 <br>
 An interactive 3D website visualizing data on women representation and providing insights in an blog article format. This can be extended to any database from the worldbank.
@@ -12,13 +19,6 @@ An interactive 3D website visualizing data on women representation and providing
 
 * [D3.js](https://d3js.org/)
 * [Three.js](https://threejs.org/)
-
-<br>
-
-## Demo
-<br>
-
-View Live Website: [www.womeninparliamentsg.web.app](https://womeninparliamentsg.web.app/)
 
 <br>
 
