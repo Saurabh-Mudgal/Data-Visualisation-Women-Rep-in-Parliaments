@@ -28,7 +28,7 @@ View Live Website: [www.womeninparliamentsg.web.app](https://womeninparliamentsg
 Currently we are working on:
 * Generalization
 * Responsiveness
-* Site size Reduction
+* Site-size Reduction
 
 <br>
 
