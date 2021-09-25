@@ -14,17 +14,29 @@ An interactive 3D website visualizing data on women representation and providing
 * [Three.js](https://threejs.org/)
 
 <br>
+
 ## Demo
-View Live Website: [https://womeninparliamentsg.web.app/](www.womeninparliamentsg.web.app/)
 <br>
+
+View Live Website: [www.womeninparliamentsg.web.app](https://womeninparliamentsg.web.app/)
+
+<br>
+
 ## Scope
+<br>
+
 Currently we are working on:
 * Generalization
 * Responsiveness
 * Site size Reduction
+* 
 <br>
+
 Majorly, API integrations to facilitate the intended extension of this pilot project to be used as a tool to create interactive 3D visualizations for any database from the [worldbank website](https://data.worldbank.org/).
+
 <br>
+
 ## Contact
 <br>
+
 Saurabh mudgal: [saurabh011@e.ntu.edu.sg](mailto:saurabh011@e.ntu.edu.sg)
