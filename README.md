@@ -29,7 +29,7 @@ Currently we are working on:
 * Generalization
 * Responsiveness
 * Site size Reduction
-* 
+
 <br>
 
 Majorly, API integrations to facilitate the intended extension of this pilot project to be used as a tool to create interactive 3D visualizations for any database from the [worldbank website](https://data.worldbank.org/).
