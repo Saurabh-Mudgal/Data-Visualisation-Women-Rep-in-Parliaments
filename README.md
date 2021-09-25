@@ -1,15 +1,18 @@
 # Data Visualisation - Women Representation in Parliaments
 <br>
 <br>
+
 ## About the Project
 <br>
 An interactive 3D website visualizing data on women representation and providing insights in an blog article format. This can be extended to any database from the worldbank.
 <br>
+
 ### Built with 
-* [D3.js](https://d3js.org/)
-* [Three.js](
 <br>
-Three.js and D3.js
+
+* [D3.js](https://d3js.org/)
+* [Three.js](https://threejs.org/)
+
 <br>
 ## Demo
 View Live Website: [https://womeninparliamentsg.web.app/](www.womeninparliamentsg.web.app/)
